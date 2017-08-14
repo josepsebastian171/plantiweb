@@ -1,0 +1,230 @@
+body{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image:url(imagenes/fondo-body.png);
+	background-repeat: repeat-x;
+	background: linear-gradient();
+	
+}
+
+#container{ 
+	width: 1200px;
+	height:auto;
+	background-color:#E0E0E0;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 5px 5px 5px #eaeaea;
+		
+}
+
+header{
+width: 1200px;
+height: 190px;
+overflow:hidden;
+	
+}
+
+
+nav{
+	width: 1200px;
+	height: 40px;
+	float: left;
+	background-image:url(imagenes/fondo-nav.png);
+	background-repeat: repeat-x;
+	
+}
+
+#articulo{
+	width: 1200px;
+	float: left;
+	text-align: center;
+}
+
+div.plantilla{
+    float: left;
+    padding: 15px;
+    min-height: 250px;
+}
+
+div .galeria header h1{
+	padding-top: 40px;
+}
+
+div .galeria header{
+	height: 140px;
+}
+.facebook{
+	float: left;
+}
+
+
+
+footer{
+	width: 1200px;
+	height: 200px;
+	/*background-color: #8BC7DC;*/
+	clear: both;
+	float: left;
+	/*margin-top: 0px;*/
+
+	
+	-webkit-box-shadow:6px 6px 6px 6px #ebebeb; 
+	-moz-box-shadow:4px 4px 6px 7px #ebebeb;
+	-ms-box-shadow:6px 6px 14px 6px #ebebeb;
+	-o-box-shadow:6px 6px 14px 6px #ebebeb;
+	box-shadow:6px 6px 14px 6px #ebebeb; 
+	
+	border-radius:5px;
+	border-radius:-moz-5px;
+	border-radius:-webkit-5px;
+	background-image: -webkit-repeating-linear-gradient(29deg,rgba(14,146,209,1.00) 0%,rgba(0,195,255,1.00) 100%);
+	background-image: -moz-repeating-linear-gradient(29deg,rgba(14,146,209,1.00) 0%,rgba(0,195,255,1.00) 100%);
+	background-image: -o-repeating-linear-gradient(29deg,rgba(14,146,209,1.00) 0%,rgba(0,195,255,1.00) 100%);
+	background-image: repeating-linear-gradient(61deg,rgba(14,146,209,1.00) 0%,rgba(0,195,255,1.00) 100%);
+	padding-bottom: 20px;
+	
+	
+}
+
+footer section{
+	width: 440px;
+	float: left;
+	padding: 20px;
+	
+	
+}
+
+footer #acerca{
+	font-family: Arial,Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	color:#FFFFFF; 
+	text-align: justify;
+	line-height: 20px;
+	
+	
+}
+
+footer #acerca h3{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+footer #redes div{
+	
+	width: 220px;
+	height: 60px;
+	float: left;
+	background-color: #CCAB20;
+	opacity: 0.9;
+	
+	
+}
+
+
+footer #redes div a {
+	width: 220px;
+	height: 60px;
+	display:inline-block;
+}
+
+footer #redes .facebook{
+	background: url(imagenes/redes-planti-facebook.png);
+
+}
+
+footer #redes .twitter{
+	background: url(imagenes/redes-planti-twitter.png);
+	
+}
+
+footer #redes .email{
+	background: url(imagenes/redes-planti-correo.png);
+}
+
+footer #redes .youtube{
+	background: url(imagenes/redes-planti-youtube.png);
+	
+}
+
+footer #redes div:hover{
+	opacity: 1;
+}
+
+
+#copyright{
+	float: left;
+	width: 1200px;
+	margin: 10px 0px;
+	text-align:center;
+	font-size: 20px;
+	font-family: arial,helvetica,Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+nav ul{
+	
+	list-style: none;
+	margin: 5px;
+	padding: 5px;
+	
+}
+
+nav ul li{
+	margin: 0px;
+}
+
+nav ul li a{
+	display: block;
+	height: 40px;
+	width: auto;
+	float: left;
+	padding-left: 40px;
+	padding-right: 80px;
+	text-decoration: none;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	color: white;
+	line-height: 40px;
+/*	margin-left: 10px;
+	margin-right: 10px;*/
+	
+	
+}
+
+nav ul li a:hover{
+
+	background-image: url(imagenes/fondo-nav-boton.png);
+	background-repeat: repeat-x;	
+	
+}
+
+h1.form{
+	margin-top: 80px;
+}
+
+
+table.form1{
+	padding-bottom: 80px;
+}
+
+table.form1{
+	font-size: 25px;
+}
+
+table.form1 td{
+
+	padding-bottom:5px;
+
+}
+
+#ingreso{
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 90px;
+	padding-bottom: 40px;
+	
+}
+
+
+

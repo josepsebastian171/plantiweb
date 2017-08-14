@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../estilos.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable -->
+
+<!--Inicio sombrea-->	
+
+
+	<!--INICIO CONTENEDOR-->
+		<div id="container">
+			<header>
+				<a href="index.html"><img src="imagenes/Header_PlantiWeb.png" alt="Planti Web"></a>
+			</header>
+
+			<nav>
+				<ul>
+					<li><a href="index.html">Inicio</a></li>
+					<li><a href="registro.html">Registro</a></li>
+					<li><a href="ingreso.html">Ingreso</a></li>
+					<li><a href="carrito.html">Carrito</a></li>
+				</ul>
+			</nav>
+
+			<div id="articulo_principal">
+				esto es una prueba del articulo
+				
+
+			</div>
+
+			<aside>
+
+			</aside>
+
+			<footer>
+								
+				<section id="acerca">
+				<h3>Acerca de nosotros</h3>
+					<article>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente rerum aspernatur, dolorum, fugiat doloribus voluptate dolore veritatis. 
+					</article>
+				</section>
+				
+				<section id="redes">
+					<div class="email"><a href="#"></a></div>
+					<div class="twitter"><a href="https://twitter.com/"></a></div>
+					<div class="youtube"><a href="#"></a></div>
+					<div class="facebook"><a href="https://www.facebook.com/"></a></div>
+				</section>
+
+			</footer>
+			
+			<div id="copyright">
+				<p>
+				Copyright 2017 www.plantiweb.com
+				<br>
+				Aviso legal, política de privacidad 
+				</p>
+			</div>
+</div>
+	<!--FIN CONTENEDOR-->	
+	
+		
+<!--Fin sombra-->	
+</body>
+</html>
